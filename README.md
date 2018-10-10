@@ -11,13 +11,19 @@ Main files are:-
 
 
 Items are the games in each category.Hence categories are
+
 1)arcade.html
+
 2)adventure.html
+
 3)sports.html
 
 Each category of games has 2 files related with it.They are
+
 1)Arcade - pacman.html, contra.html
+
 2)Adventure - creed.html, cell.html
+
 3)Sports - fifa.html, nba.html
 
 Then comes myitem.html page

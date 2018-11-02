@@ -1,7 +1,7 @@
 # Simple-Static-Website
 
-This is a simple static website using HTML 5, CSS, Bootstrap.
-Navigation between the static pages are done using HTML
+- This is a simple static website using HTML 5, CSS, Bootstrap.
+- Navigation between the static pages are done using HTML
 
 Main files are:-
 1)index.html - This is the homepage of the application.
@@ -32,8 +32,8 @@ This page consists of list of games. Clicking on "Update" button redirects to th
 Clickable items are:- 
 
 Header - Games
-Side Navigation bar - Home, Categories
-Breadcrumbs - All visible breadcrumbs except the present page
-Buttons - Swap, Update
+- Side Navigation bar - Home, Categories
+- Breadcrumbs - All visible breadcrumbs except the present page
+- Buttons - Swap, Update
 
 
